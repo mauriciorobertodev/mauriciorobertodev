@@ -1,4 +1,4 @@
-![Mauricio Roberto Logo](./assets/logo.jpg)
+![Mauricio Roberto Logo](./logo.jpg)
 
 ![Overview](https://img.shields.io/static/v1?label=Overview&message=Mauricio&color=017BFF&labelColor=111317&style=for-the-badge&logo=GitHub) 
 [![GitHub](https://img.shields.io/github/followers/mauriciorobertodev?label=follow&style=for-the-badge&color=017BFF&labelColor=111317&)](https://github.com/mauriciorobertodev)
@@ -22,6 +22,7 @@
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
 **Frontend**
+
 ![CSS 3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML 5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Java Script](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -43,8 +44,6 @@
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-
-<br/>
 
 ## ⭐ Informações sobre minha conta GitHub
 
