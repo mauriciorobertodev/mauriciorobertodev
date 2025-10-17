@@ -5,7 +5,7 @@
 
 ## 👋 Olá, meu nome é <span style="color:#017BFF;">Mauricio Roberto!</span>
 
-> Um autoditada aspirante a junior.
+> Um autoditada aspirante a pleno.
 
 ## Sobre mim
 
